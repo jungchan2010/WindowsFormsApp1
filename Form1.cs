@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Button.Text = "Cancel";
+            Button.Text = "Cancel-------------";
         }
     }
 }
